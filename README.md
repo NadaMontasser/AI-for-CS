@@ -2,7 +2,7 @@
  by implementing a binary classifier aiming at predicting data 
 exfiltration via DNS and classifiy if it is malicious or not malicious. 
 
-### Data Analysis to visuaize the distribution of data features using:
+### Data Analysis to visualize the distribution of data features using:
 - Histogram
 - Seaborn 
 - Boxplot
